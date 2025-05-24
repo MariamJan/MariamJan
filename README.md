@@ -1,4 +1,7 @@
-#Hi there! 👋 I'm Mariam
+# Hi there! 👋 I'm Mariam
+
+Welcome to my GitHub! I’m a passionate software engineering student who loves building full-stack apps, crafting smart UIs, and diving into data and AI. Let’s build something awesome together 🚀
+
 # 💫 About Me:
 🤝 I’m looking to collaborate on  
 Exciting tech projects involving full-stack development,  
