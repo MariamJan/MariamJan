@@ -42,6 +42,17 @@ machine learning, and mobile app development.
 ![VirtualBox](https://img.shields.io/badge/virtualbox-%23007ACC.svg?style=for-the-badge&logo=virtualbox&logoColor=white) 
 ![Cisco Packet Tracer](https://img.shields.io/badge/PacketTracer-%23007ACC.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MariamJan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MariamJan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamJan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MariamJan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 # 🐍 GitHub Contribution:
 ![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
