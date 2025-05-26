@@ -25,6 +25,7 @@ machine learning, and mobile app development.
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![EJS](https://img.shields.io/badge/EJS-%23000000.svg?style=for-the-badge&logo=EJS&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -41,6 +42,7 @@ machine learning, and mobile app development.
 ![Apache NetBeans IDE](https://img.shields.io/badge/NetBeans-%23007396.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) 
 ![VirtualBox](https://img.shields.io/badge/virtualbox-%23007ACC.svg?style=for-the-badge&logo=virtualbox&logoColor=white) 
 ![Cisco Packet Tracer](https://img.shields.io/badge/PacketTracer-%23007ACC.svg?style=for-the-badge&logo=cisco&logoColor=white)
+
 <!--
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariamJan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
