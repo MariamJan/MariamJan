@@ -49,8 +49,8 @@ machine learning, and mobile app development.
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariamJan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MariamJan&theme=dark&hide_border=false)<br/>
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamJan&theme=dark&layout=compact&hide_border=false&langs_count=6&hide=html) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamJan&theme=dark&layout=compact&hide_border=false&langs_count=6&hide=html) -->
 # 🐍 GitHub Contribution Snake:
 ![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
