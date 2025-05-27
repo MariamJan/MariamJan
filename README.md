@@ -46,13 +46,17 @@ machine learning, and mobile app development.
 ![VirtualBox](https://img.shields.io/badge/virtualbox-%23007ACC.svg?style=for-the-badge&logo=virtualbox&logoColor=white) 
 ![Cisco Packet Tracer](https://img.shields.io/badge/PacketTracer-%23007ACC.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
-<!--
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariamJan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MariamJan&theme=dark&hide_border=false)<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamJan&theme=dark&layout=compact&hide_border=false&langs_count=6&hide=html)  
--->
+# 📊 GitHub Stats:
+
+<!-- GitHub Readme Stats – May not include contributions to repos you don't own -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariamJan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=MariamJan&theme=dark&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamJan&theme=dark&layout=compact&hide_border=false&langs_count=8&hide=html,css)
+
+
+
 # 🐍 GitHub Contribution Snake:
 ![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
