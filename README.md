@@ -49,12 +49,15 @@ machine learning, and mobile app development.
 
 # 📊 GitHub Stats:
 
-<!-- GitHub Readme Stats – May not include contributions to repos you don't own -->
+# 📊 GitHub Highlights:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariamJan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=MariamJan&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamJan&theme=dark&layout=compact&hide_border=false&langs_count=8&hide=html,css)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MariamJan&theme=darkhub&margin-w=10&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariamJan&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MariamJan&theme=tokyonight&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamJan&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&hide=html,css)
 
 
 # 🐍 GitHub Contribution Snake:
