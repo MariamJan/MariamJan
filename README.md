@@ -52,7 +52,9 @@ machine learning, and mobile app development.
 
 ## 🏙️ GitHub Skyline
 
-[![GitHub Skyline](https://github.com/MariamJan/MariamJan/blob/main/skyline-preview.png?raw=true)](https://skyline.github.com/MariamJan/2024)
+> My GitHub activity visualized as a 3D city ✨
+
+[![GitHub Skyline](https://raw.githubusercontent.com/MariamJan/MariamJan/main/skyline-preview.png)](https://skyline.github.com/MariamJan/2024)
 
 <!--
 
