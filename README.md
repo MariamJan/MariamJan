@@ -48,6 +48,8 @@ machine learning, and mobile app development.
 
 
 # 📊 GitHub Stats:
+![GitHub Streak](https://streak-stats.demolab.com?user=MariamJan&theme=tokyonight&hide_border=false)
+<!--
 
 # 📊 GitHub Highlights:
 
@@ -55,10 +57,8 @@ machine learning, and mobile app development.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariamJan&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MariamJan&theme=tokyonight&hide_border=false)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamJan&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&hide=html,css)
-
+-->
 
 # 🐍 GitHub Contribution Snake:
 ![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
