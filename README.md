@@ -49,8 +49,11 @@ machine learning, and mobile app development.
 
 # 📊 GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=MariamJan&theme=tokyonight&hide_border=false)
+## 🏙️ GitHub Skyline
 
-![GitHub Calendar](https://github-readme-calendar.vercel.app/api?username=MariamJan&color=00ffee&theme=dark)
+> My GitHub activity visualized as a 3D city ✨
+
+[![GitHub Skyline](https://raw.githubusercontent.com/MariamJan/MariamJan/main/skyline-preview.png)](https://skyline.github.com/MariamJan/2024)
 
 <!--
 
