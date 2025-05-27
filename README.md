@@ -49,7 +49,7 @@ machine learning, and mobile app development.
 
 # 📊 GitHub Stats:
 <!--![GitHub Streak](https://streak-stats.demolab.com?user=MariamJan&theme=tokyonight&hide_border=false)-->
-![](https://nirzak-streak-stats.vercel.app/?user=MariamJan&theme=dark&hide_border=false)<br/>
+<!--![](https://nirzak-streak-stats.vercel.app/?user=MariamJan&theme=dark&hide_border=false)<br/>-->
 [![Mariam's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariamJan&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br>
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariamJan&theme=github_dark)
 <!--
