@@ -50,8 +50,7 @@ machine learning, and mobile app development.
 # 📊 GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=MariamJan&theme=tokyonight&hide_border=false)
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ffcc&lines=Hello!+I'm+Mariam+Jan;Software+Engineer+and+UI+Lover;Building+Smart+Solutions+with+Style)](https://git.io/typing-svg)
+![GitHub Calendar](https://github-readme-calendar.vercel.app/api?username=MariamJan&color=00ffee&theme=dark)
 
 <!--
 
