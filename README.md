@@ -50,11 +50,8 @@ machine learning, and mobile app development.
 # 📊 GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=MariamJan&theme=tokyonight&hide_border=false)
 
-## 🔄 Live Dev Status
 
-![Profile Views](https://komarev.com/ghpvc/?username=MariamJan&style=flat-square&color=brightgreen)
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20code-1.2M-blue.svg)
-![Code Time](https://img.shields.io/badge/dynamic/json?label=⌛%20Coding%20Time&query=total_seconds&url=https://wakatime.com/api/users/current/stats/last_7_days&style=flat-square&color=ff69b4)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ffcc&lines=Hello!+I'm+Mariam+Jan;Software+Engineer+and+UI+Lover;Building+Smart+Solutions+with+Style)](https://git.io/typing-svg)
 
 <!--
 
