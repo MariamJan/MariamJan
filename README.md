@@ -48,22 +48,24 @@ machine learning, and mobile app development.
 
 
 # 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=MariamJan&theme=tokyonight&hide_border=false)
+<!--![GitHub Streak](https://streak-stats.demolab.com?user=MariamJan&theme=tokyonight&hide_border=false)-->
+![](https://nirzak-streak-stats.vercel.app/?user=MariamJan&theme=dark&hide_border=false)<br/>
 [![Mariam's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariamJan&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br>
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariamJan&theme=github_dark)
 <!--
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariamJan&theme=github_dark)
 ![Commits Per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MariamJan&theme=github_dark&utcOffset=+2)
 -->
+
 <!--
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MariamJan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MariamJan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamJan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📊 GitHub Highlights:
+---
+[![](https://visitcount.itsvg.in/api?id=MariamJan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MariamJan&theme=darkhub&margin-w=10&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariamJan&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamJan&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&hide=html,css)
 -->
 
 # 🐍 GitHub Contribution Snake:
