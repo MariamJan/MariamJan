@@ -62,7 +62,7 @@ machine learning, and mobile app development.
 <!--![](https://github-readme-stats.vercel.app/api?username=MariamJan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamJan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
-[GitHub Streak](https://streak-stats.demolab.com?user=MariamJan&theme=tokyonight&hide_border=false)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=MariamJan&theme=dark&hide_border=false)<br/>
 
 ---
