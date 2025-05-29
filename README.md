@@ -49,15 +49,15 @@ machine learning, and mobile app development.
 
 # 📊 GitHub Stats:
 <!--[GitHub Streak](https://streak-stats.demolab.com?user=MariamJan&theme=tokyonight&hide_border=false)-->
-
+<!--
 [![Mariam's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariamJan&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br>
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariamJan&theme=github_dark)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariamJan&theme=github_dark)
 ![Commits Per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MariamJan&theme=github_dark&utcOffset=+2)
+-->
 
 
-<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MariamJan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MariamJan&theme=dark&hide_border=false)<br/>
@@ -66,7 +66,7 @@ machine learning, and mobile app development.
 ---
 [![](https://visitcount.itsvg.in/api?id=MariamJan&icon=0&color=0)](https://visitcount.itsvg.in)
 
--->
+
 
 # 🐍 GitHub Contribution Snake:
 ![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
