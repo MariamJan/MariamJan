@@ -52,10 +52,10 @@ machine learning, and mobile app development.
 
 [![Mariam's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariamJan&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br>
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariamJan&theme=github_dark)
-<!--
+
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariamJan&theme=github_dark)
 ![Commits Per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MariamJan&theme=github_dark&utcOffset=+2)
--->
+
 
 <!--
 # 📊 GitHub Stats:
