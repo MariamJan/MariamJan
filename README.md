@@ -53,10 +53,7 @@ machine learning, and mobile app development.
 
 
 # 📊 GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=MariamJan&theme=dark&hide_border=false)<br/>
-
-[![](https://visitcount.itsvg.in/api?id=MariamJan&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Streak](https://streak-stats.demolab.com?user=yousraamr&theme=dark&hide_border=false)
 
 # 🐍 GitHub Contribution Snake:
 ![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
